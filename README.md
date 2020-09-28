@@ -1,6 +1,7 @@
 # INST126-Fall2020
-#heading
-##small heading (heading 2)
-###heading three
-**italic** __bold__
+# heading 1
+## small heading (heading 2)
+### heading three
+*italics*
+**Bold**
 
